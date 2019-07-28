@@ -11,6 +11,7 @@
 </head>
 
 <body>
+  <p><a href="/"> home </a></p>
     <div id="app" class="flex flex-col items-center p-8">
         <h1 class="text-2xl font-bold mb-8">Context Menu</h1>
 

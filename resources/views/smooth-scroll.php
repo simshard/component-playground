@@ -10,6 +10,7 @@
     <title>Smooth Scrolling</title>
 </head>
 <body>
+  <p><a href="/"> home </a></p>
     <div id="app" class="p-8">
         <h1 class="text-2xl font-bold">Smooth Scroll</h1>
 

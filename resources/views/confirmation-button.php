@@ -11,6 +11,7 @@
 </head>
 
 <body class="font-sans p-10">
+  <p><a href="/"> home </a></p>
     <div id="app" class="text-center">
         <h1 class="text-2xl font-bold mb-8">Confirmation Dialogs</h1>
 
@@ -45,7 +46,7 @@
                 </button>
             </form>
         </div>
- 
+
         <confirm-dialog></confirm-dialog>
 
     </div>

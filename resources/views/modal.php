@@ -13,6 +13,7 @@
 </head>
 
 <body class="p-10">
+  <p><a href="/"> home </a></p>
     <div id="app" class="text-center">
         <h1 class="text-2xl font-bold mb-8">Modal</h1>
 

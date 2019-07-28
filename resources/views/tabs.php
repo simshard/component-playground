@@ -9,7 +9,9 @@
     <title>Tabs</title>
 </head>
 <body>
+
     <div id="app" class="p-8">
+      <p><a href="/"> home </a></p>
         <h1 class="text-2xl font-bold mb-6">Tabs</h1>
         <tabs>
             <tab title="First" >
